@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Luiz Felipe Clemente Machado
+Matricula: 887995
 
 ## Tela de inspeção com navegador
-
+![!\[inspsite.png\]](inspsite.png)
 
 ## Tela de projeto no Replit
-
+![alt text](sitereplit.png)
